@@ -17,18 +17,15 @@ justify-content: space-around;
 .profile{
     background-color: hsl(256, 26%, 20%) ;
     display: flex;
-    
+    width: 100%;
+    padding: 30px 100px;
 }
-.pro img{
-    width: 500px;
-    height: 800px;
-    display: flex;
-    display: flex;  
+.profile-text {
+    width: 50%;
 }
-.pro{
-    display: flex;
-    margin: 200px;
-    
+.profile img {
+    position: relative;
+    top: 200px;
 }
 .main{
   margin: 100px;
